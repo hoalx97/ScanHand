@@ -1,0 +1,3 @@
+include ':nativetemplates'
+rootProject.name = 'Detector Hand'
+include ':app', ':lib_interpreter', ':lib_task_api'

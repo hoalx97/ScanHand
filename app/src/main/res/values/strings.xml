@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Hand Scan - Health Protection</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="challenge">+15040 have joined</string>
+    <string name="text_challenge">The habit of washing hands \n will be formed after 7 consecutive days</string>
+    <string name="advice">Advice</string>
+    <string name="history">History</string>
+    <string name="bannerId">ca-app-pub-9085952480111777/6792277125</string>
+
+</resources>
